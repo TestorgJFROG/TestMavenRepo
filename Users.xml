@@ -1,0 +1,14 @@
+<usersInfo>
+    <users>
+        <user>
+            <type>admin</type>
+            <login>admin</login>
+            <password>password</password>
+        </user>
+        <user>
+            <type>user</type>
+            <login></login>
+            <password></password>
+        </user>
+    </users>
+</usersInfo>
